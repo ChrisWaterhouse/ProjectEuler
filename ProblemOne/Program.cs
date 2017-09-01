@@ -1,4 +1,5 @@
 ﻿using System;
+using ProblemOne.Classes;
 
 namespace ProblemOne
 {
@@ -6,7 +7,8 @@ namespace ProblemOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Answer is: {0}", NaturalNumbers.NaturalNumbersSum(NaturalNumbers.GenerateNaturalNumbers(1000)));
+            Console.ReadLine();
         }
     }
 }
