@@ -1,0 +1,6 @@
+<Playlist Version="1.0">
+  <Add Test="ProblemOne.Tests.NaturalNumbersTest.NaturalNumbersSumReturned" />
+  <Add Test="ProblemOne.Tests.NaturalNumbersTest.GenerateNaturalNumbersReturned" />
+  <Add Test="ProblemOne.Tests.NaturalNumbersTest.NaturalNumbersSumValidated" />
+  <Add Test="ProblemOne.Tests.NaturalNumbersTest.GenerateNaturalNumbersValidated" />
+</Playlist>
