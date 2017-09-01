@@ -22,8 +22,8 @@ Find the sum of all the multiples of 3 or 5 below 1000."
 #### Solution
 I solved the problem by first calculating all natural numbers of three and five up to 50. This leaves you with the following:
 
-0, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45
-0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50
+* 0, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45
+* 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50
 
 Once written down, you begin to notice a pattern within the numbers. Every 5th natural number of three is a multiple of 5. Though this number is always the third natural number of 5.
 

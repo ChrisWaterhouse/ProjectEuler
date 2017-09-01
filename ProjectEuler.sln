@@ -1,13 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.10
+VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemOne", "ProblemOne\ProblemOne.csproj", "{1C6FC571-76B9-419B-9C9E-BF17FB7C3844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemOne", "ProblemOne\ProblemOne.csproj", "{1C6FC571-76B9-419B-9C9E-BF17FB7C3844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemOne.Classes", "ProblemOne.Classes\ProblemOne.Classes.csproj", "{E3C42329-EB61-4D03-8957-F6C16F0EE239}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemOne.Classes", "ProblemOne.Classes\ProblemOne.Classes.csproj", "{E3C42329-EB61-4D03-8957-F6C16F0EE239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemOne.Tests", "ProblemOne.Tests\ProblemOne.Tests.csproj", "{F32103C0-C418-4A87-845C-FC7999FC861F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemOne.Tests", "ProblemOne.Tests\ProblemOne.Tests.csproj", "{F32103C0-C418-4A87-845C-FC7999FC861F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1D0D17B6-D47C-45AE-9056-24BD0FFB7DCB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
